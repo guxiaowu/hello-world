@@ -1,2 +1,4 @@
 # hello-world
-初学者
+
+Hi human!
+I'm a beginner.
